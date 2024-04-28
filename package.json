@@ -1,0 +1,30 @@
+{
+  "name": "cypress-functions-wrapper-for-jira",
+  "version": "1.0.0",
+  "description": "A collection of utility functions for Cypress tests to simplify testing of Jira workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mouhamed-git/cypress-functions-wrapper-for-jira.git"
+  },
+  "keywords": [
+    "cypress",
+    "jira",
+    "workflow",
+    "testing",
+    "utilities",
+    "functions"
+  ],
+  "author": "miisteuh-diack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mouhamed-git/cypress-functions-wrapper-for-jira/issues"
+  },
+  "homepage": "https://github.com/Mouhamed-git/cypress-functions-wrapper-for-jira#readme",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
+}
